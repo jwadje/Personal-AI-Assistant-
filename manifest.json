@@ -2,7 +2,7 @@
   "name": "Personal AI Assistant",
   "short_name": "AI Assistant",
   "description": "Your personal AI assistant for managing daily life",
-  "start_url": "/mobile-assistant.html",
+  "start_url": "https://jwadje.github.io/Personal-AI-Assistant-/",
   "display": "standalone",
   "background_color": "#667eea",
   "theme_color": "#667eea",
